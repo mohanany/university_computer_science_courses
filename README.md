@@ -1,4 +1,4 @@
-#university_computer_science_courses
+university_computer_science_courses
 This repository contains all the university courses I took, the books I studied, and the projects I worked on for those courses. It also includes some lectures for certain subjects and a few early-year university courses I completed.
 
 Repository Contents
