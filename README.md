@@ -1,27 +1,65 @@
-university_computer_science_courses
+# University Computer Science Courses
 
-This repository contains all the university courses I took, the books I studied, and the projects I worked on for those courses. It also includes some lectures for certain subjects and a few early-
+> All university courses I took, books I studied, projects I worked on, and lecture materials.
 
-year university courses I completed.
+**[📂 Open Google Drive Folder](https://drive.google.com/drive/folders/1_1aWV_BdVYWMi74dkQaRLBYgu2KfnlDx)**
 
-Repository Contents
+---
 
-University course materials
+## 📋 Repository Contents
 
-Books and references for each course
+- **University Course Materials** (Lectures, Notes, Assignments, Exams)
+- **Books & References** for each course
+- **Programming Projects & Case Studies**
+- **Lecture Recordings** (for some subjects)
+- **First-Year University Courses**
 
-Programming projects and case studies
+---
 
-Lecture notes and recordings
+## 🎯 Purpose
 
-Additional first-year courses
+The purpose of this repository is to organize all my Computer Science university studies in one central place, making it easy to access, review, and share the resources and projects I completed during my academic journey.
 
-Purpose
+---
 
-The purpose of this repository is to organize my computer science university studies in one place, making it easy to access and share the resources and projects I completed during my studies.
+## 📁 Structure
 
-
-Notes
 Check each course folder for full details on the available materials and files.
 
-I hope you benefit from the files and resources shared in this repositor
+> **Note**: Due to the large size of the files (videos, books, projects...), all materials are hosted on **Google Drive** instead of GitHub.
+
+---
+
+## 🛠 Technologies & Topics Covered
+
+*(You can add the main topics here later, for example:)*
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Databases
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Artificial Intelligence
+- ...etc
+
+---
+
+## 📌 How to Use
+
+1. Visit the [Google Drive Folder](https://drive.google.com/drive/folders/1_1aWV_BdVYWMi74dkQaRLBYgu2KfnlDx)
+2. Navigate to the desired course folder
+3. Download the materials you need
+
+---
+
+## ⭐️ Feel Free To
+
+- Star the repository if you found it useful
+- Share it with your colleagues
+- Use the materials for learning/reference
+
+---
+
+**I hope you benefit from the files and resources shared in this repository!** 🙌
+
+---
